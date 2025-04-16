@@ -10,7 +10,6 @@ const Layout = () => {
             <h1>the superhero database</h1>
           </div>
         </a>
-        <pre>Rudrajit Sengupta (Z23751380)</pre>
         <div className="hamburger-menu">
           <div className="hamburger-icon">
             <span></span>
