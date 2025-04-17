@@ -29,9 +29,6 @@ const About = () => {
         <li><strong>React Router:</strong> For handling navigation and routing within the app.</li>
         <li><strong>Superhero API:</strong> The source of all superhero and villain data.</li>
       </ul>
-      <p>
-        This project demonstrates how to integrate a third-party API into a modern web application using React.js and Vite, while providing an engaging and interactive user experience.
-      </p>
     </div>
   );
 };
